@@ -42,4 +42,11 @@ LSTM networks are a type of recurrent neural network (RNN) that are well-suited 
 
 ## Conclusion
 
-The results indicate that increasing the complexity of the LSTM architecture generally improves the model's accuracy in detecting human movement. The LSTM(8+16+32) architecture achie
+The results indicate that increasing the complexity of the LSTM architecture generally improves the model's accuracy in detecting human movement. The LSTM(8+16+32) architecture achieved the highest test accuracy at 94.82%.
+
+## Future Work
+
+Further experimentation with different LSTM configurations, regularization techniques, and optimization strategies could yield even better results. Additionally, integrating other types of neural networks or sensor fusion techniques might enhance the model's performance and robustness.
+
+
+
